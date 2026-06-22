@@ -1,6 +1,6 @@
 [package]
 name = "wcag-contrast"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 rust-version = "1.81"
 description = "Compute WCAG 2 color contrast ratios and AA/AAA pass levels from hex or RGB colors. Focused, zero-dependency accessibility helper."
